@@ -1,0 +1,54 @@
+Caso|Estado|Sexo|Edad|Inicio|Confirmación|Procedencia|Llegada|Recuperado
+1|CIUDAD DE MÉXICO|M|35|22/02/2020|confirmado|Italia|22/02/2020|0
+2|SINALOA|M|41|22/02/2020|confirmado|Italia|21/02/2020|1
+3|CIUDAD DE MÉXICO|M|59|23/02/2020|confirmado|Italia|22/02/2020|0
+4|COAHUILA|F|20|27/02/2020|confirmado|Italia|25/02/2020|1
+5|CHIAPAS|F|18|25/02/2020|confirmado|Italia|25/02/2020|0
+6|MÉXICO|M|71|21/02/2020|confirmado|Italia|21/02/2020|1
+7|CIUDAD DE MÉXICO|M|46|29/02/2020|confirmado|Estados Unidos|29/02/2020|0
+8|QUERETARO|M|43|09/03/2020|confirmado|España|06/03/2020|0
+9|CIUDAD DE MÉXICO|M|41|07/03/2020|confirmado|Estados Unidos|06/03/2020|0
+10|PUEBLA|M|47|08/03/2020|confirmado|Italia|04/03/2020|0
+11|CIUDAD DE MÉXICO|F|30|07/03/2020|confirmado|España|06/03/2020|0
+12|MÉXICO|F|64|02/03/2020|confirmado|Estados Unidos|29/02/2020|0
+13|NUEVO LEÓN|M|57|04/03/2020|confirmado|Alemania|03/03/2020|0
+14|MÉXICO|F|55|09/03/2020|confirmado|España|09/03/2020|0
+15|DURANGO|M|58|06/03/2020|confirmado|España|28/02/2020|0
+16|QUERETARO|F|65|10/03/2020|confirmado|Contacto|NA|0
+17|QUERETARO|M|42|05/03/2020|confirmado|Italia|05/03/2020|0
+18|CIUDAD DE MÉXICO|M|48|10/03/2020|confirmado|España|09/03/2020|0
+19|CIUDAD DE MÉXICO|M|38|10/03/2020|confirmado|España|09/03/2020|0
+20|QUERETARO|F|43|11/03/2020|confirmado|Contacto|NA|0
+21|PUEBLA|M|31|05/03/2020|confirmado|España|09/03/2020|0
+22|CIUDAD DE MÉXICO|M|37|11/03/2020|confirmado|Italia|11/03/2020|0
+23|YUCATÁN|F|57|07/03/2020|confirmado|España|06/03/2020|0
+24|CIUDAD DE MÉXICO|M|52|08/03/2020|confirmado|España|08/03/2020|0
+25|CIUDAD DE MÉXICO|M|64|10/03/2020|confirmado|Contacto, Cuba|10/03/2020|0
+26|CIUDAD DE MÉXICO|M|68|04/03/2020|confirmado|España|10/03/2020|0
+27|QUINTANA ROO|F|71|01/03/2020|confirmado|Italia|01/03/2020|0
+28|SAN LUIS POTOSÍ|F|53|11/03/2020|confirmado|España|10/03/2020|0
+29|NUEVO LEÓN|M|73|09/03/2020|confirmado|Estados Unidos|10/03/2020|0
+30|NUEVO LEÓN|M|30|09/03/2020|confirmado|España|07/03/2020|0
+31|PUEBLA|M|31|09/03/2020|confirmado|España|08/03/2020|0
+32|CIUDAD DE MÉXICO|F|33|10/03/2020|confirmado|Francia|08/03/2020|0
+33|JALISCO|F|54|10/03/2020|confirmado|España|04/03/2020|0
+34|JALISCO|F|64|01/03/2020|confirmado|Alemania|09/03/2020|0
+35|MÉXICO|M|61|09/03/2020|confirmado|Estados Unidos|03/03/2020|0
+36|CIUDAD DE MÉXICO|M|45|07/03/2020|confirmado|España|09/03/2020|0
+37|CIUDAD DE MÉXICO|F|62|11/03/2020|confirmado|Estados Unidos|08/03/2020|0
+38|CIUDAD DE MÉXICO|M|72|09/03/2020|confirmado|Estados Unidos|07/03/2020|0
+39|CIUDAD DE MÉXICO|M|41|10/03/2020|confirmado|España|08/03/2020|0
+40|PUEBLA|M|30|09/03/2020|confirmado|España|09/03/2020|0
+41|CIUDAD DE MÉXICO|M|38|11/03/2020|confirmado|Contacto|NA|0
+42|OAXACA|F|30|09/03/2020|confirmado|España|09/03/2020|0
+43|SINALOA|M|25|09/03/2020|confirmado|Estados Unidos|13/03/2020|0
+44|SAN LUIS POTOSÍ|F|23|07/03/2020|confirmado|España|10/03/2020|0
+45|QUERETARO|F|54|10/03/2020|confirmado|España|10/03/2020|0
+46|OAXACA|M|61|10/03/2020|confirmado|Estados Unidos|10/03/2020|0
+47|QUERETARO|F|55|10/03/2020|confirmado|España|10/03/2020|0
+48|NUEVO LEÓN|M|27|11/03/2020|confirmado|España|13/03/2020|0
+49|NUEVO LEÓN|M|46|06/03/2020|confirmado|Estados Unidos|03/03/2020|0
+50|PUEBLA|F|27|05/03/2020|confirmado|España|09/03/2020|0
+51|CIUDAD DE MÉXICO|F|70|07/03/2020|confirmado|Estados Unidos|08/03/2020|0
+52|AGUASCALIENTES|M|25|14/03/2020|confirmado|España|12/03/2020|0
+53|PUEBLA|F|31|10/03/2020|confirmado|Contacto|NA|0
